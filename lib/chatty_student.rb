@@ -9,10 +9,9 @@ require_relative "./student.rb"
 
 
    def raise_hand
-     30.times do 
+     10.times do
        super
      end
    end
-   
+
  end
-   
